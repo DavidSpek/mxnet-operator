@@ -22,7 +22,7 @@ require (
 	k8s.io/client-go v10.0.0+incompatible
 	k8s.io/kubernetes v1.16.9
 	k8s.io/utils v0.0.0-20191114184206-e782cd3c129f // indirect
-	volcano.sh/volcano v0.4.0
+	volcano.sh/volcano v0.4.2
 )
 
 replace (
