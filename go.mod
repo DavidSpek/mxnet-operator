@@ -6,7 +6,7 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.5.0 // indirect
-	github.com/kubeflow/common v0.3.1
+	github.com/kubeflow/common v0.3.2
 	github.com/kubeflow/tf-operator v0.5.3
 	github.com/kubernetes-sigs/kube-batch v0.0.0-20200414051246-2e934d1c8860
 	github.com/onrik/logrus v0.0.0-20180801161715-ca0a758702be
