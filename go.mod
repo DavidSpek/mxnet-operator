@@ -10,7 +10,7 @@ require (
 	github.com/kubeflow/tf-operator v0.5.3
 	github.com/kubernetes-sigs/kube-batch v0.0.0-20200414051246-2e934d1c8860
 	github.com/onrik/logrus v0.0.0-20180801161715-ca0a758702be
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.7.1
 	github.com/soheilhy/cmux v0.1.4 // indirect
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
