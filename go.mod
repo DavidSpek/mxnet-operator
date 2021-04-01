@@ -6,7 +6,7 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.0.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.5.0 // indirect
-	github.com/kubeflow/common v0.3.1
+	github.com/kubeflow/common v0.3.3
 	github.com/kubeflow/tf-operator v0.5.3
 	github.com/kubernetes-sigs/kube-batch v0.0.0-20200414051246-2e934d1c8860
 	github.com/onrik/logrus v0.0.0-20180801161715-ca0a758702be
@@ -16,9 +16,9 @@ require (
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.10.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.3.1 // indirect
-	k8s.io/api v0.16.9
+	k8s.io/api v0.16.15
 	k8s.io/apiextensions-apiserver v0.0.0
-	k8s.io/apimachinery v0.16.9
+	k8s.io/apimachinery v0.16.15
 	k8s.io/client-go v10.0.0+incompatible
 	k8s.io/kubernetes v1.16.9
 	k8s.io/utils v0.0.0-20191114184206-e782cd3c129f // indirect
