@@ -1,4 +1,4 @@
-FROM golang:1.13.8
+FROM golang:1.16.3
 
 RUN mkdir -p /opt/kubeflow
 COPY mxnet-operator.v1beta1 /opt/kubeflow
