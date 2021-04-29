@@ -17,7 +17,7 @@ require (
 	go.uber.org/zap v1.10.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.3.1 // indirect
 	k8s.io/api v0.16.9
-	k8s.io/apiextensions-apiserver v0.0.0
+	k8s.io/apiextensions-apiserver v0.21.0
 	k8s.io/apimachinery v0.16.9
 	k8s.io/client-go v10.0.0+incompatible
 	k8s.io/kubernetes v1.16.9
